@@ -6,7 +6,7 @@ function show_image(i) {
     index += i;
 
     var images = document.getElementsByClassName("image");
-    var dots = document.getElementsByClassName("dot")
+    var dots = document.getElementsByClassName("dot");
 
     for(i = 0; i < images.length; i++)
         images[i].style.display = "none";

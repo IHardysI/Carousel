@@ -55,7 +55,7 @@
 .dot {
     height: 15px;
     width: 15px;
-    background-color: burlywood;
+    background-color: #bbb;
     display: inline-block;
     border-radius: 50%;
     margin: 0 2px;
